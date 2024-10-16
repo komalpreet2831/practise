@@ -28,24 +28,4 @@ public class Duplicatesort {
         }
     }
 }
-
-
-
-
-
-
-    // import java.util.Arrays;
-    // public class Duplicatesort {
-
-    //     public static void main(String[] args) {
-       
-    //         int[] arr = {0, 1, 1, 3, 10, 15, 15};
-    
-    //         // Sort the array
-    //         Arrays.sort(arr);
-    //         System.out.println("Sorted array: " + Arrays.toString(arr));
- 
-            
-    //     }
-    // }
-      
+this is my code for dupliacte git 
