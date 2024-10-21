@@ -1,5 +1,5 @@
 public class Duplicatesort {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         int[] arr = {0, 1, 1, 3, 10, 15, 15};
 
         for (int i = 0; i < arr.length - 1; i++) {
@@ -28,4 +28,3 @@ public class Duplicatesort {
         }
     }
 }
-this is my code for dupliacte git 
